@@ -1,20 +1,20 @@
 import React from "react";
-import { Button } from "react-bootstrap";
 import reactImage from "../../Images/react.png";
 import jsImage from "../../Images/js.png";
 import firebaseImage from "../../Images/firebase.jpg";
-import profileImage from "../../Images/sibainu.jpg";
+import profileImage from "../../Images/profileImage.jpg";
 
 function HomePage() {
   return (
     <div className="container text-center">
-      <h1>Shin Code</h1>
+      <h1>main page</h1>
 
       <img src={profileImage} className="profileImage" />
 
       <p>
-        ShinCodeです。普段は個人でWeb系の情報発信をYoutubeやTwitterにて行っています。主にHTML/CSS/Javascript/Reactメインに取り扱っています。趣味は個人でプログラミングの撮影を行うことです。
-        ShinCodeです。普段は個人でWeb系の情報発信をYoutubeやTwitterにて行っています。主にHTML/CSS/Javascript/Reactメインに取り扱っています。趣味は個人でプログラミングの撮影を行うことです。
+        いおりです。ただの大学生です。主にHTML/CSS/Javascript/Reactメインに取り扱っています。
+        <br></br>
+        趣味は読書やFPSゲームを行うこと。フルスタックエンジニアになりたいな。
       </p>
 
       <section class="page-section" id="services">
