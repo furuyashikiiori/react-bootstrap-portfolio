@@ -1,7 +1,6 @@
 import React from "react";
 import reactImage from "../../Images/react.png";
 import jsImage from "../../Images/js.png";
-import firebaseImage from "../../Images/firebase.jpg";
 import profileImage from "../../Images/profileImage.jpg";
 
 function HomePage() {
